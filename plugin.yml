@@ -1,0 +1,12 @@
+main: de.SlamWeasel.SurvivalHelper.main.Main
+version: 1.14.2
+name: SurvivalHelperBySlamWeasel
+author: SlamWeasel
+
+commands:
+    craft:
+        description: You can craft things without putting down a crafting table, but you have to have on in your inventory
+        aliases: [crafting, work, workbench]
+    hat:
+        description: You can put any item on your head
+        aliases: [hut]
